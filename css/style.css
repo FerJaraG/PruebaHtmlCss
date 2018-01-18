@@ -2,6 +2,11 @@
 	background-color: yellowgreen;
 }
 
+.logo{
+	width: auto;
+	height: 50px;
+}
+
 .carousel-item img{
 	height: 100vh;
 }
@@ -38,7 +43,7 @@
 }
 
 .side{
-	padding-top: 100px;
+	padding-top: 130px;
 	color: yellowgreen;
 }
 
