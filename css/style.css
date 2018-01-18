@@ -1,0 +1,74 @@
+.navbar{
+	background-color: yellowgreen;
+}
+
+.carousel-item img{
+	height: 100vh;
+}
+
+.thumb{
+	padding: 50px 0;
+}
+
+.thumb h2{
+	padding: 10px 0;
+	font-size: 1.2rem;
+}
+
+.fila2{
+	padding-top: 50px;
+}
+
+.foot{
+	padding: 50px 0;
+	background-color: yellowgreen;
+}
+
+.social	img{
+	padding: 0 10px;
+	height: 25px;
+}
+
+.social p{
+	padding-top: 20px;
+}
+
+.social h2{
+	padding-bottom: 20px;
+}
+
+.side{
+	padding-top: 100px;
+	color: yellowgreen;
+}
+
+.side a{
+	color: yellowgreen;
+}
+
+.side h3{
+	padding-top: 20px;
+	font-size: 1.3rem;
+}
+
+.blog, .nosotros{
+	padding-top: 100px;
+}
+
+.noticia{
+	padding: 30px 0;
+}
+
+.blog h2{
+	padding-top: 20px;
+	font-size: 1.2rem;
+	color: yellowgreen;
+}
+
+.nosotrosTop{
+	text-align: center;
+}
+
+.nosotrosBottom{
+	text-align: center;
+}
